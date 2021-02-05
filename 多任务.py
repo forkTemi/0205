@@ -1,5 +1,8 @@
 import threading
 
+def test3():
+    print("kkkkkkk")
+    
 def test1():
     for i in range(5):
         print("-------test1----%d"%i)
